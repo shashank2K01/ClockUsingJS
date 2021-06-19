@@ -1,0 +1,9 @@
+.clockcontainer{
+
+    border:2px solid red;
+    margin:auto;
+    height: 40vw;
+    width:40vw;
+    background-image: url(clock.png);
+    background-size: 100%;
+}
